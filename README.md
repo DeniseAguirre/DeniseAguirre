@@ -29,6 +29,16 @@ Apasionada por crear soluciones innovadoras y funcionales. Actualmente, me enfoc
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1750cb?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-17b2cb?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![NextJs](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next&logoColor=white)
+![NodeJs](https://img.shields.io/badge/NodeJS-119733?style=for-the-badge&logo=node&logoColor=white)
+![NestJs](https://img.shields.io/badge/NestJS-db1e1e?style=for-the-badge&logo=nest&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3261a9?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-119028?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ea5f0f?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1c1cec?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-a31cec?style=for-the-badge&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3261a9?style=for-the-badge&logo=python&logoColor=white)
 
 
 ---
