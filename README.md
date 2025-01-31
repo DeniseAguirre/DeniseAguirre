@@ -28,23 +28,18 @@ Apasionada por crear soluciones innovadoras y funcionales. Actualmente, me enfoc
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1750cb?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 ---
 
-## 📂 Repositorios Destacados
-
-- [CriptoAr - Seguimiento de Criptomonedas](https://github.com/DeniseAguirre/criptoar): Aplicación móvil para seguir las principales criptomonedas.
-- [Otro Proyecto](#): Breve descripción del proyecto.
-
----
 
 ## 📫 ¡Conectemos!
 
 Si te interesa colaborar, tienes alguna pregunta o simplemente quieres charlar sobre tecnología, no dudes en contactarme:
 
 📧 **Email:** deniseaguirre.m@gmail.com  
-💼 **LinkedIn:** [Denise Aguirre](#)  
-🐦 **Twitter:** [@tu_usuario](#)  
+💼 **LinkedIn:** [Denise Aguirre](https://www.linkedin.com/in/denise-aguirre-m/)  
 
 ---
 
