@@ -23,6 +23,9 @@ Apasionada por crear soluciones innovadoras y funcionales. Actualmente, me enfoc
 
 ## 💡 Tecnologías y Herramientas
 
+![HTML](https://img.shields.io/badge/Html-f47937?style=for-the-badge&logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/Css-2380ca?style=for-the-badge&logo=css&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
