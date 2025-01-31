@@ -2,7 +2,7 @@
 
 ### Desarrolladora móvil y entusiasta de la tecnología 📱💻
 
-Apasionada por crear soluciones innovadoras y funcionales. Actualmente, me enfoco en el desarrollo de aplicaciones móviles con **React Native** y en explorar el mundo de las criptomonedas y blockchain. ¡Bienvenido/a a mi perfil de GitHub!
+Apasionada por crear soluciones innovadoras y funcionales. Actualmente, me enfoco en el desarrollo de aplicaciones móviles con **React Native** y en explorar el mundo de la intelegencia artificial y la eficiencia. ¡Bienvenido/a a mi perfil de GitHub!
 
 ---
 
